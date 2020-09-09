@@ -8,7 +8,8 @@ HOW TO USE ON LOCALHOST :
 ----
 1.Add studentsite folder in to your htdocs or www folder
 -----------------------------------------------------------------------------
-2.Create user in phpmyadmin with 
+2.Create user in phpmyadmin with:
+-----------------------------------
 username:id13959988_studentdata 
 password:FZrI0pdg&szL@J?_
 
